@@ -5,7 +5,7 @@ GitHubin käytön harjoittelua, yritetään saada ns. konflikti aikaiseksi.
 
 Tehtävän kuvaus
 
-Ota tämä projekti itsellesi git clone komennolla (git clone https://github.com/h01340/s22GitHarkka1-2)
+Ota tämä projekti itsellesi git clone komennolla (git clone https://github.com/h01340/s22GitHarkka1-6)
 
 Päivitä omalla koneellasi tiedostoa "UpdateMe.txt"
 
