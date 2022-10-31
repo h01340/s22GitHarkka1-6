@@ -6,9 +6,14 @@ Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa t
 <<<<<<< HEAD
 =======
 Moimoimoimoimoi
+<<<<<<< HEAD
 >>>>>>> 663d69e50b63cbb479b1f4cf25721e0607227c00
 
 
 
-Teemu: aishdlkasjd
+
+=======
+moimoimoipart2
+>>>>>>> 0ef86937c7c4965fd1dda88cc978cde47843f0af
     
+Teemu : asdasjdaisdj
