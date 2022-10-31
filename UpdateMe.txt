@@ -3,6 +3,12 @@ Minna: tälläinen tästä nyt tuli
 Otto: juupase juu
 Rane: kyllä näin on
 Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa tätä tiedostoa.
-Teemu: wgewjgpoajgweg
+<<<<<<< HEAD
+=======
+Moimoimoimoimoi
+>>>>>>> 663d69e50b63cbb479b1f4cf25721e0607227c00
 
+
+
+Teemu: aishdlkasjd
     
